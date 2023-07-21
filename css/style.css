@@ -1,0 +1,14 @@
+
+main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(248, 252, 255);
+}
+
+.prompt {
+  height: 90px;
+  background-color: rgb(153, 156, 244);
+
+}
